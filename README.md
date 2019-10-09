@@ -2,7 +2,7 @@
 
 Static website made using Bootstrap that portraits the importance of Bananas.
 
-## What it looks
+## What it looks like
 
 ![Screenshot](/img/bananascreen.png)
 
