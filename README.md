@@ -7,7 +7,7 @@ Static website made using Bootstrap that portraits the importance of Bananas.
 ![Screenshot](/img/bananascreen.png)
 
 
-# This repository was generating using bootstrap documented below
+# This repository was generating using Bootstrap documented below
 
 ## [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
