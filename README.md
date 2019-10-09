@@ -1,4 +1,15 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
+# Banana Website
+
+Static website made using Bootstrap that portraits the importance of Bananas.
+
+## What it looks
+
+![Screenshot](/img/bananascreen.png)
+
+
+# This repository was generating using bootstrap documented below
+
+## [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
